@@ -1,8 +1,8 @@
 {
   "default": {
-    "searchDefault": "Google",
+    "searchDefault": "Imasse",
     "visibleDefaultEngines": [
-      "google-b-m", "bing", "amazondotcom", "ddg", "twitter", "wikipedia"
+      "imasse", "bing", "amazondotcom", "ddg", "twitter", "wikipedia"
     ]
   },
   "regionOverrides": {
